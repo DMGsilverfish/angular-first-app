@@ -1,27 +1,36 @@
-# Essentials
+## Collaborative To-Do List (Angular 20)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+<p align="center">
+  <a href="https://angular.io">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="150"/>
+  </a>
+</p>
 
-## Development server
+> **A sleek, multi-user task management system – built with Angular 20**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## ✨ What It Does
+This is a lightweight, fast, and mobile-friendly to-do list application where **multiple users** can:
+- Create and complete tasks
+- Assign tasks to different people
+- View everyone’s tasks in a clean, simple interface
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Perfect for small teams, family task sharing, or personal productivity.
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🏗️ Tech Stack
+- **Angular 20** – Modern framework for building fast SPAs
+- **TypeScript** – For robust, type-safe development
+- **HTML5 & CSS** – Responsive, mobile-first design
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🚀 Getting Started
+### Prerequisites
+- **Node.js** (v18 or newer)
+- **Angular CLI 20**
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
