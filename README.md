@@ -6,6 +6,7 @@
   </a>
 </p>
 
+[![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
 > **A sleek, multi-user task management system – built with Angular 20**
 
 
