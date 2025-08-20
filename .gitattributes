@@ -1,1 +1,7 @@
+# Force GitHub to count HTML
 *.html linguist-detectable=true
+*.html linguist-vendored=false
+
+# Force GitHub to count CSS
+*.css linguist-detectable=true
+*.css linguist-vendored=false
